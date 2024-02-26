@@ -16,5 +16,5 @@ setup(
     author='Your Name',
     author_email='your.email@example.com',
     description='A Telegram bot based on the Dragon Ball Z theme.',
-    url='https://github.com/Swami260//DBZ-telegram-,
+    url='https://github.com/Swami2600//DBZ-telegram-,
 )
